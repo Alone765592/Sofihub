@@ -13,8 +13,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '27662412'))
-API_HASH = environ.get('API_HASH', '4a695060ecd737dffa9e92c540b46ed2')
+API_ID = int(environ.get('API_ID', '24942826'))
+API_HASH = environ.get('API_HASH', 'e3e2f3b65ef58634139ccd27d6b7d8cb')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
@@ -30,7 +30,7 @@ CODE = (environ.get('CODE', 'https://graph.org/file/e419f801841c2ee3db0fc.jpg'))
 
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6847319298').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6914788581').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002370744720').split()] #Channel id for auto indexing ( make sure bot is admin )
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002170835362')) #Log channel id ( make sure bot is admin )
 DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '-1002302232332')) #Notification of those who verify will be sent to your channel. Enter the ID of the channel you want to send notification to here.
