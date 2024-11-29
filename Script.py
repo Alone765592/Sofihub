@@ -4,7 +4,7 @@ class script(object):
 <blockquote>ɪᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/mrboy638'>Mʀ</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Morning006'>Dev</a>
 </b>"""
 
     GSTART_TXT = """<b>ʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.</b>"""
@@ -15,8 +15,8 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ MY ᴅᴇᴛᴀɪʟꜱ ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/mrboy638'>Mʀ</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/mrboy638'>Welcome</a>   
+├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Morning006'>Dev</a>
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Morning006'>Welcome</a>   
 ├⍟ ᴡᴇʙsɪᴛᴇ : <a href="https://www.youtube.com/@Sameditor267">ʟɪɴᴋ</a>
 ├⍟ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ : <a href="https://chat.whatsapp.com/Ddpls6dkyhH0EFuH1V1epL">ʟɪɴᴋ</a>
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ4.2 [ꜱᴛᴀʙʟᴇ]
@@ -31,7 +31,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ▫ 𝟸𝟺x𝟽 sᴇʀᴠɪᴄᴇs ᴀᴠᴀɪʟᴀʙʟᴇ.</b>"""
 
     
-    STATUS_TXT = """<b>╭────[ 𝐀𝐋ＯⓃＥ ]────⍟
+    STATUS_TXT = """<b>╭────[ Dev ]────⍟
 ├⍟ Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code>
 ├⍟ Tᴏᴛᴀʟ Usᴇʀs : <code>{}</code>
 ├⍟ Tᴏᴛᴀʟ Cʜᴀᴛs : <code>{}</code>
@@ -174,9 +174,9 @@ Nᴀᴍᴇ - {}
 
 <b>🎉 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑫𝒐𝒏𝒂𝒕𝒆 𝑴𝒆𝒕𝒉𝒐𝒅 👇</b>
 
-➢ QR Cᴏᴅᴇ : <a href='https://envs.sh/cbs.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
+➢ QR Cᴏᴅᴇ : <a href='https://envs.sh/YcK.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
-➢ Uᴘɪ Iᴅ : <code>aloneboy6383@axl</code>
+➢ Uᴘɪ Iᴅ : <code>9024482094-2@ybl</code>
 
 ‼️ 𝑴𝒖𝒔𝒕 𝑺𝒆𝒏𝒅 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑨𝒇𝒕𝒆𝒓 𝑫𝒐𝒏𝒂𝒕𝒆.</b>"""
     
@@ -254,7 +254,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Alone_moviehub">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/mrboy638>[Mʀ]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Morning006>[Dev]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
