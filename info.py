@@ -13,8 +13,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '24942826'))
-API_HASH = environ.get('API_HASH', 'e3e2f3b65ef58634139ccd27d6b7d8cb')
+API_ID = int(environ.get('API_ID', '26910777'))
+API_HASH = environ.get('API_HASH', '8601f2f24993f6fdbcbac3bb27ceec38')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
@@ -31,11 +31,11 @@ CODE = (environ.get('CODE', 'https://graph.org/file/e419f801841c2ee3db0fc.jpg'))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6914788581').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002191230586').split()] #Channel id for auto indexing ( make sure bot is admin )
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '1002451804784')) #Log channel id ( make sure bot is admin )
-DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '-1002416571921')) #Notification of those who verify will be sent to your channel. Enter the ID of the channel you want to send notification to here.
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', ' -1002292107201').split()] #Channel id for auto indexing ( make sure bot is admin )
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ' -1002259385936')) #Log channel id ( make sure bot is admin )
+DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '0')) #Notification of those who verify will be sent to your channel. Enter the ID of the channel you want to send notification to here.
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '0')) # add premium logs channel id
-auth_channel = environ.get('AUTH_CHANNEL', '0') #Channel / Group Id for force sub ( make sure bot is admin )
+auth_channel = environ.get('AUTH_CHANNEL', '-1002004887345') #Channel / Group Id for force sub ( make sure bot is admin )
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '0') # support group id ( make sure bot is admin )
 reqst_channel = environ.get('REQST_CHANNEL_ID', '0') # request channel id ( make sure bot is admin ).
@@ -56,7 +56,7 @@ CAPTION_LANGUAGES = ["Bhojpuri", "Hindi", "Bengali", "Tamil", "English", "Bangla
 # Verify
 VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
 DEENDAYAL_VERIFY_EXPIRE = int(environ.get('DEENDAYAL_VERIFY_EXPIRE', 3)) # Add time in hours
-DEENDAYAL_VERIFIED_LOG = int(environ.get('DEENDAYAL_VERIFIED_LOG', '0')) #Log channel id ( make sure bot is admin )
+DEENDAYAL_VERIFIED_LOG = int(environ.get('DEENDAYAL_VERIFIED_LOG', ' -1002367550757')) #Log channel id ( make sure bot is admin )
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/xmovieshub56/8') # How to open tutorial link for verification
 
 # Shortner 
@@ -68,8 +68,8 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
 #Channel & Group link 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+YURZZiRGA742ZTA9')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DkJ1W6LHiaxhZTg1')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Morning006')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Aniket_Movies_Hub')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/KING18X007')
 
 
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '0').split()]
@@ -98,7 +98,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '0')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', ' -1002466639926')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "False")), False)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), True)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
